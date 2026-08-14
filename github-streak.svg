@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" role="img" aria-label="NimeshJohari02 GitHub contribution streak">
+  <rect width="800" height="230" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <text x="30" y="39" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">$ git streak --visible</text>
+  <text x="30" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">generated daily from the GitHub contribution calendar</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    
+    <g transform="translate(30 92)">
+      <rect width="222" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect width="222" height="4" rx="2" fill="#7ee787"/>
+      <text x="111" y="50" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="700">5</text>
+      <text x="111" y="78" text-anchor="middle" fill="#8b949e" font-size="13">current streak</text>
+    </g>
+    
+    <g transform="translate(267 92)">
+      <rect width="222" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect width="222" height="4" rx="2" fill="#ffa657"/>
+      <text x="111" y="50" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="700">12</text>
+      <text x="111" y="78" text-anchor="middle" fill="#8b949e" font-size="13">longest streak</text>
+    </g>
+    
+    <g transform="translate(504 92)">
+      <rect width="266" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect width="266" height="4" rx="2" fill="#58a6ff"/>
+      <text x="133" y="50" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="700">1.5K</text>
+      <text x="133" y="78" text-anchor="middle" fill="#8b949e" font-size="13">contributions / 12mo</text>
+    </g>
+  </g>
+</svg>

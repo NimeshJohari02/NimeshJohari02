@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="205" viewBox="0 0 1000 205" role="img" aria-label="NimeshJohari02 GitHub trophy shelf">
+  <rect width="1000" height="205" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <text x="30" y="39" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">🏆 handmade trophy shelf</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    
+    <g transform="translate(30 68)">
+      <rect width="222" height="112" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="32" cy="31" r="12" fill="#58a6ff" opacity="0.22"/>
+      <circle cx="32" cy="31" r="6" fill="#58a6ff"/>
+      <text x="53" y="36" fill="#58a6ff" font-size="13" font-weight="700">THE BUILDER</text>
+      <text x="22" y="76" fill="#f0f6fc" font-size="25" font-weight="700">40</text>
+      <text x="22" y="98" fill="#8b949e" font-size="12">original public repositories</text>
+    </g>
+    <g transform="translate(268 68)">
+      <rect width="222" height="112" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="32" cy="31" r="12" fill="#7ee787" opacity="0.22"/>
+      <circle cx="32" cy="31" r="6" fill="#7ee787"/>
+      <text x="53" y="36" fill="#7ee787" font-size="13" font-weight="700">THE CONSISTENT ONE</text>
+      <text x="22" y="76" fill="#f0f6fc" font-size="25" font-weight="700">1.5K</text>
+      <text x="22" y="98" fill="#8b949e" font-size="12">visible contributions / 12mo</text>
+    </g>
+    <g transform="translate(506 68)">
+      <rect width="222" height="112" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="32" cy="31" r="12" fill="#a371f7" opacity="0.22"/>
+      <circle cx="32" cy="31" r="6" fill="#a371f7"/>
+      <text x="53" y="36" fill="#a371f7" font-size="13" font-weight="700">THE COLLABORATOR</text>
+      <text x="22" y="76" fill="#f0f6fc" font-size="25" font-weight="700">1</text>
+      <text x="22" y="98" fill="#8b949e" font-size="12">pull requests + reviews</text>
+    </g>
+    <g transform="translate(744 68)">
+      <rect width="222" height="112" rx="14" fill="#161b22" stroke="#30363d"/>
+      <circle cx="32" cy="31" r="12" fill="#ffa657" opacity="0.22"/>
+      <circle cx="32" cy="31" r="6" fill="#ffa657"/>
+      <text x="53" y="36" fill="#ffa657" font-size="13" font-weight="700">THE FOLLOWED NERD</text>
+      <text x="22" y="76" fill="#f0f6fc" font-size="25" font-weight="700">27</text>
+      <text x="22" y="98" fill="#8b949e" font-size="12">humans following along</text>
+    </g>
+  </g>
+</svg>

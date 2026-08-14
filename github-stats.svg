@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" role="img" aria-label="NimeshJohari02 GitHub statistics">
+  <rect width="800" height="230" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <text x="30" y="39" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">$ github nerd-stats --visible</text>
+  <text x="30" y="66" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">GitHub since 2020 · 40 active original repositories · generated from GitHub GraphQL</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    
+    <g transform="translate(30 92)">
+      <rect width="142" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect width="142" height="4" rx="2" fill="#7ee787"/>
+      <text x="71" y="50" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="700">1.5K</text>
+      <text x="71" y="78" text-anchor="middle" fill="#8b949e" font-size="13">contributions / 12mo</text>
+    </g>
+    <g transform="translate(183 92)">
+      <rect width="142" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect width="142" height="4" rx="2" fill="#58a6ff"/>
+      <text x="71" y="50" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="700">40</text>
+      <text x="71" y="78" text-anchor="middle" fill="#8b949e" font-size="13">public repos</text>
+    </g>
+    <g transform="translate(336 92)">
+      <rect width="142" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect width="142" height="4" rx="2" fill="#ffa657"/>
+      <text x="71" y="50" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="700">216</text>
+      <text x="71" y="78" text-anchor="middle" fill="#8b949e" font-size="13">stars earned</text>
+    </g>
+    <g transform="translate(489 92)">
+      <rect width="142" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect width="142" height="4" rx="2" fill="#a371f7"/>
+      <text x="71" y="50" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="700">1</text>
+      <text x="71" y="78" text-anchor="middle" fill="#8b949e" font-size="13">pull requests</text>
+    </g>
+    <g transform="translate(642 92)">
+      <rect width="142" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+      <rect width="142" height="4" rx="2" fill="#7ee787"/>
+      <text x="71" y="50" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="700">0</text>
+      <text x="71" y="78" text-anchor="middle" fill="#8b949e" font-size="13">code reviews</text>
+    </g>
+  </g>
+</svg>
