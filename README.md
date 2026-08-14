@@ -1,99 +1,101 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Nimesh Kumar  Johari</h1>
-<h3 align="center"> Full Stack Developer and Cloud Enthusiast </h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=NimeshJohari02&label=Profile%20views&color=0e75b6&style=flat" alt="NimeshJohari02" /></p> -->
+<p align="center">
+  <img src="./assets/terminal-header.svg" alt="Nimesh Johari - AI Pod Tech Lead, Backend Nerd and Friendly Neighborhood AI Prompt Tuner" width="100%" />
+</p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=NimeshJohari02&title=MultiLanguage,Stars,Commit,Followers,Repositories" alt="NimeshJohari02" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Pod+Tech+Lead+%40+Habuild;Friendly+Neighborhood+AI+Prompt+Tuner+%F0%9F%98%82;Linux+windows+must+tile.+This+is+not+negotiable.;Built+BoxMaker.+It+makes+a+useless+div.+No+regrets." alt="Typing introduction" />
+  </a>
 </p>
 
-- 🔭 I’m currently working on **Building and Deploying containerised applications.**
-
-- 🌱 I’m currently learning **Docker , Kubernetes , ReactJS , NodeJs .**
-
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
-
-- 📫 How to reach me **nimeshjohari95@gmail.com**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://heroku.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
+  <a href="https://www.linkedin.com/in/nimeshjohari02/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nimeshjohari02.github.io/myportfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/nimeshjohari02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:nimeshjohari95@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+## 👋 Hey, I am Nimesh
 
-# Github Activity📊:
+I build backend and AI systems, but the real pattern is simpler: I enjoy understanding how things work, how they break, and how to make them boringly reliable afterward.
 
-<div>
-    <p align="center">
-        <div align="center">
-            <table>
-                <tr>
-                    <td>
-                        <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshJohari02&&show_icons=true&&theme=algolia" alt="GitHub Stats" />
-                    </td>
-                    <td>
-                        <img height=180 src="https://github-readme-stats.vercel.app/api?username=NimeshJohari02&&show_icons=true&theme=algolia">
-                    </td>
-                </tr>
-            </table>
-            <table>
-                <tr>
-                    <td align="center">
-                        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshJohari02&&layout=compact&&show_icons=true&&theme=algolia" >
-                    </td>
-                </tr>
-            </table>
-            <br>
-            <img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=NimeshJohari02&bg_color=050f2c&color=fff&line=0194dd&point=5194f0&area=true" alt="Daily Contribution Graph" />
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimeshJohari02&theme=nord_bright"  width="800" height="auto"  alt="Monthly Contribution Graph" >
-        </div>
-    </p>
-</div>
-<h3 align='center'>Connect with me  📫 </h3>
-<p align = 'center'>
-<a href = https://github.com/NimeshJohari02 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg "Nimesh Johari" height='45' weight='45' /></a>
-<a href = https://www.linkedin.com/in/nimesh-johari-555b671a9 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
-<a href ="mailto:nimeshjohari95@gmail.com" target='blank'> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" height='45' weight='45'/></a>
-<br>
+By day, I lead Habuild's AI Pod. By slightly-too-late-at-night, I tune prompts, test models, automate annoying workflows, listen to documentation through text-to-speech, and keep both Linux **and** macOS windows tiled because dragging them manually feels like packet loss. 😂
+
+AI is part of how I build—not a substitute for knowing what the code does. I still like making things by hand, tracing the full path, and owning the result when production disagrees.
+
+```yaml
+nimesh:
+  aliases: [backend nerd, friendly neighborhood AI prompt tuner]
+  current_quest: make agentic AI dependable in production
+  input_devices: [keyboard, voice, text-to-speech]
+  desktop_policy: "tile everything"
+  operating_systems: [Linux, macOS]
+  default_reaction: "Can this be automated?"
+  debugging_style: follow the failure until it confesses
+```
+
+## 🧪 Things I built because... why not?
+
+Some repos are serious systems experiments. Some are old coursework. Some are me spending a weekend automating a ten-minute task. There is also a repo whose entire pitch is "get a useless div." I regret nothing.
+
+- 🐧 **Desktop rabbit hole:** my [Artix Linux dotfiles](https://github.com/NimeshJohari02/artix-dotfiles)—BSPWM, XMonad, Polybar, Neovim, Alacritty, and evidence that I will automate window placement before dragging one manually.
+- 🛠️ **Built by hand:** my original [personal portfolio](https://github.com/NimeshJohari02/myportfolio), a tiny [command-line notes app](https://github.com/NimeshJohari02/NotesCLI), and more small experiments than any sensible person needs.
+- 🎮 **Tiny web chaos:** [Lights Out](https://github.com/NimeshJohari02/LightsOutReact), [Hangman](https://github.com/NimeshJohari02/hangmangame), [Drumkit](https://github.com/NimeshJohari02/Drumkit), [Simon](https://github.com/NimeshJohari02/SimonGame), and the gloriously unnecessary [BoxMaker](https://github.com/NimeshJohari02/BoxMaker).
+- 🏁 **Origin story:** the giant [C/C++ practice drawer](https://github.com/NimeshJohari02/CppProjects), my [first webpage](https://github.com/NimeshJohari02/HTMLtry), and [JPMorgan Code for Good 2022](https://github.com/NimeshJohari02/CodeForGood).
+
+## 🤖 Work mode
+
+- I lead three developers in Habuild's **AI Pod** across agents, prompts, tools, memory, evaluations, observability, incidents, and PR quality.
+- Recent rabbit holes include taking **GPT-5.6 Luna** to production and co-leading Langfuse/ClickHouse reliability work that reduced disk usage from **175 GiB to 12 GiB**.
+- I joined Habuild's **CRM engineering pod**, working on high-throughput messaging and failure recovery before moving to the AI Pod.
+
+Before Habuild, I led backend delivery for credit-card acquisition at **Freecharge** and built catalog, payment, order, onboarding, and chatbot systems at **BYJU'S**.
+
+## 🧰 Things currently open in my terminal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,go,java,aws,docker,kubernetes,redis,postgres,kafka,linux,git&perline=12" alt="Python, TypeScript, Go, Java, AWS, Docker, Kubernetes, Redis, PostgreSQL, Kafka, Linux and Git" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-Agent_Orchestration-1C3C3C?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Langfuse-LLM_Observability-7C3AED?style=flat-square" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector_Search-DC244C?style=flat-square" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/SQS-Queues-FF9900?style=flat-square&logo=amazonsqs&logoColor=white" alt="AWS SQS" />
+</p>
+
+## 📊 Two numbers I like
+
+| 🧑‍💻 **3 developers** | 🧩 **600+ problems** |
+|:---:|:---:|
+| AI Pod technical leadership | LeetCode, because apparently I enjoy debugging at midnight |
+
+## 📈 GitHub widget wall
+
+<p align="center">
+  <img height="175" src="https://raw.githubusercontent.com/NimeshJohari02/NimeshJohari02/output/github-stats.svg" alt="Nimesh's GitHub statistics" />
+  <img height="175" src="https://raw.githubusercontent.com/NimeshJohari02/NimeshJohari02/output/github-streak.svg" alt="Nimesh's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NimeshJohari02/NimeshJohari02/output/github-trophies.svg" alt="Nimesh's handmade GitHub trophy shelf" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NimeshJohari02&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Nimesh's recent GitHub activity graph" width="100%" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NimeshJohari02/NimeshJohari02/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NimeshJohari02/NimeshJohari02/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/NimeshJohari02/NimeshJohari02/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+> If a workflow takes three clicks twice, it is already dangerously close to becoming a shortcut, script, prompt, or tiny agent. 🧠⚡
+
+<p align="center"><strong>Build by hand. Accelerate with AI. Verify everything.</strong></p>
