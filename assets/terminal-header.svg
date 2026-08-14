@@ -1,37 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Nimesh Johari</title>
-  <desc id="desc">AI Pod Tech Lead, backend nerd, and friendly neighborhood AI prompt tuner</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="0.55" stop-color="#111b2e"/>
-      <stop offset="1" stop-color="#21153d"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.82" cy="0.2" r="0.7">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.42"/>
-      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="8"/>
-    </filter>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nimesh Johari — Production Field Notes</title>
+  <desc id="desc">An editorial profile cover with Nimesh Johari's name and four tiled panels showing his engineering loop: trace, make, test, learn.</desc>
 
-  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
-  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
-  <circle cx="1060" cy="72" r="100" fill="#58a6ff" opacity="0.08" filter="url(#softGlow)"/>
-  <circle cx="1110" cy="220" r="145" fill="#a371f7" opacity="0.08" filter="url(#softGlow)"/>
+  <rect width="1200" height="360" rx="6" fill="#f4ecdd"/>
+  <rect width="18" height="360" fill="#b3482d"/>
+  <path d="M18 314H742" stroke="#d7c9b4" stroke-width="2"/>
+  <path d="M742 0V360" stroke="#d7c9b4" stroke-width="2"/>
 
-  <rect x="42" y="34" width="1116" height="232" rx="12" fill="#0d1117" fill-opacity="0.78" stroke="#30363d"/>
-  <circle cx="72" cy="62" r="7" fill="#ff5f56"/>
-  <circle cx="96" cy="62" r="7" fill="#ffbd2e"/>
-  <circle cx="120" cy="62" r="7" fill="#27c93f"/>
-  <text x="600" y="67" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">nimesh@brain: ~/github/profile</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="54" fill="#b3482d" font-size="14" font-weight="700" letter-spacing="3">PRODUCTION FIELD NOTES · ISSUE 02</text>
+    <text x="56" y="138" fill="#1f2a2e" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">NIMESH</text>
+    <text x="56" y="210" fill="#1f2a2e" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">JOHARI</text>
+    <rect x="58" y="235" width="82" height="6" fill="#216e67"/>
+    <text x="58" y="275" fill="#216e67" font-size="19" font-weight="700" letter-spacing="1.4">BACKEND ENGINEER · AI POD TECH LEAD</text>
+    <text x="58" y="339" fill="#685f52" font-size="15">make complicated systems boring enough to trust</text>
+  </g>
 
-  <text x="78" y="112" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ whoami</text>
-  <text x="78" y="157" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="38" font-weight="700">NIMESH JOHARI</text>
-  <text x="78" y="196" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21">AI Pod Tech Lead · Backend Nerd · Prompt Tuner</text>
-  <text x="78" y="230" fill="#a5d6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">build → observe → break safely → understand → automate → repeat</text>
-  <rect x="696" y="216" width="10" height="19" fill="#7ee787">
-    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
-  </rect>
+  <g transform="translate(772 28)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="398" height="304" rx="4" fill="#1f2a2e"/>
+    <text x="24" y="35" fill="#f4ecdd" font-size="13" font-weight="700" letter-spacing="2.5">HOW I WORK</text>
+    <circle cx="345" cy="30" r="5" fill="#b3482d"/>
+    <circle cx="363" cy="30" r="5" fill="#e7b44d"/>
+
+    <g transform="translate(24 58)">
+      <rect width="164" height="92" fill="#216e67"/>
+      <text x="16" y="27" fill="#eaf4f1" font-size="12" font-weight="700" letter-spacing="1.7">01 / TRACE</text>
+      <path d="M18 63H59L72 48H106L120 37H144" fill="none" stroke="#f4ecdd" stroke-width="3"/>
+      <circle cx="18" cy="63" r="4" fill="#f4ecdd"/>
+      <circle cx="144" cy="37" r="4" fill="#e7b44d"/>
+    </g>
+
+    <g transform="translate(210 58)">
+      <rect width="164" height="92" fill="#b3482d"/>
+      <text x="16" y="27" fill="#fff3e8" font-size="12" font-weight="700" letter-spacing="1.7">02 / MAKE</text>
+      <rect x="18" y="48" width="53" height="25" fill="#fff3e8"/>
+      <rect x="78" y="48" width="68" height="25" fill="none" stroke="#fff3e8" stroke-width="2"/>
+      <path d="M71 60H78" stroke="#fff3e8" stroke-width="3"/>
+    </g>
+
+    <g transform="translate(24 172)">
+      <rect width="164" height="92" fill="#e7b44d"/>
+      <text x="16" y="27" fill="#1f2a2e" font-size="12" font-weight="700" letter-spacing="1.7">03 / TEST</text>
+      <path d="M20 61L42 72L70 43" fill="none" stroke="#1f2a2e" stroke-width="5"/>
+      <path d="M84 48H145M84 64H132" stroke="#1f2a2e" stroke-width="3" opacity="0.72"/>
+    </g>
+
+    <g transform="translate(210 172)">
+      <rect width="164" height="92" fill="#f4ecdd"/>
+      <text x="16" y="27" fill="#1f2a2e" font-size="12" font-weight="700" letter-spacing="1.7">04 / LEARN</text>
+      <circle cx="49" cy="59" r="17" fill="none" stroke="#216e67" stroke-width="4"/>
+      <path d="M66 59H145" stroke="#216e67" stroke-width="4"/>
+      <path d="M126 45L145 59L126 73" fill="none" stroke="#216e67" stroke-width="4"/>
+    </g>
+  </g>
 </svg>
