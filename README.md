@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nimeshjohari02/">LinkedIn</a> ·
-  <a href="https://nimeshjohari02.github.io/myportfolio/">Portfolio</a> ·
+  <a href="https://nimeshjohari02.github.io/">Portfolio</a> ·
   <a href="https://leetcode.com/u/nimeshjohari02/">LeetCode</a> ·
   <a href="mailto:nimeshjohari95@gmail.com">Email</a>
 </p>
