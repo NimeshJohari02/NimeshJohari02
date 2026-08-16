@@ -8,11 +8,11 @@
   <path d="M742 0V360" stroke="#d7c9b4" stroke-width="2"/>
 
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="58" y="54" fill="#b3482d" font-size="14" font-weight="700" letter-spacing="3">PRODUCTION FIELD NOTES · ISSUE 02</text>
+    <text x="58" y="54" fill="#b3482d" font-size="14" font-weight="700" letter-spacing="3">PRODUCTION FIELD NOTES · ISSUE 03</text>
     <text x="56" y="138" fill="#1f2a2e" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">NIMESH</text>
     <text x="56" y="210" fill="#1f2a2e" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">JOHARI</text>
     <rect x="58" y="235" width="82" height="6" fill="#216e67"/>
-    <text x="58" y="275" fill="#216e67" font-size="19" font-weight="700" letter-spacing="1.4">BACKEND ENGINEER · AI POD TECH LEAD</text>
+    <text x="58" y="275" fill="#216e67" font-size="19" font-weight="700" letter-spacing="1.4">AI POD TECH LEAD · DISTRIBUTED BACKENDS</text>
     <text x="58" y="339" fill="#685f52" font-size="15">make complicated systems boring enough to trust</text>
   </g>
 

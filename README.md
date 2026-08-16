@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal-header.svg" alt="Nimesh Johari — production field notes from a backend engineer and AI Pod Tech Lead" width="100%" />
+  <img src="./assets/terminal-header.svg" alt="Nimesh Johari — production field notes from an AI Pod Tech Lead building agent systems and distributed backends" width="100%" />
 </p>
 
 <h2 align="center">I make complicated systems boring enough to trust.</h2>
@@ -13,7 +13,7 @@
 
 ## The short version
 
-I am **Nimesh Johari**—an SDE 2 at Habuild and the technical lead for its three-person AI Pod. I work where backend engineering meets agentic AI: prompts, tools, memory, evaluations, observability, incidents, and the unglamorous engineering that makes all of them survive production.
+I am **Nimesh Johari**—the AI Pod Tech Lead at Habuild. I lead a three-developer pod where backend engineering meets agentic AI: prompts, tools, memory, evaluations, observability, incidents, and the unglamorous engineering that makes all of them survive production.
 
 I do not use AI as a substitute for understanding the code. I trace the full path, find the real owner, make the smallest safe change, and verify what the system actually stored or returned.
 
@@ -36,19 +36,25 @@ Before the AI Pod, I worked in Habuild's CRM engineering pod on high-throughput 
 - I have solved **600+** coding problems and still enjoy the moment a failing edge case finally explains itself.
 - I built [BoxMaker](https://github.com/NimeshJohari02/BoxMaker). It makes a useless `div`. No regrets.
 
-## A few honest artifacts
+## The project trail
 
-- **[Artix Linux dotfiles](https://github.com/NimeshJohari02/artix-dotfiles)** — BSPWM, XMonad, Polybar, Neovim, Alacritty, and years of refusing to place windows by hand.
-- **[myportfolio](https://github.com/NimeshJohari02/myportfolio)** — a personal site built by hand, before every portfolio needed a framework and twelve gradients.
-- **[NotesCLI](https://github.com/NimeshJohari02/NotesCLI)** — a small command-line notes app; focused, useful, finished.
-- **[Lights Out](https://github.com/NimeshJohari02/LightsOutReact)** and **[BoxMaker](https://github.com/NimeshJohari02/BoxMaker)** — proof that not every repository needs to pretend it is a startup.
-- **[CppProjects](https://github.com/NimeshJohari02/CppProjects)** and **[HTMLtry](https://github.com/NimeshJohari02/HTMLtry)** — the origin story stays visible. Progress is more interesting when the beginning is honest.
+The six pinned repositories below form a deliberately mixed record: current agentic POCs, college systems experiments, API practice, and the DSA archive I still use. Together they show the route from learning by building to the systems I work on now.
+
+The longer chronology—from my first HTML page to agentic experiments—lives in [Nimesh OS](https://nimeshjohari02.github.io/#projects).
 
 ## Tools, without the logo wall
 
 `Python` · `TypeScript` · `Go` · `Java` · `AWS` · `Docker` · `Kubernetes` · `Redis` · `PostgreSQL` · `Kafka`
 
 `LangGraph` · `Langfuse` · `Qdrant` · `RabbitMQ` · `SQS` · `Linux` · `Git`
+
+---
+
+<p align="center">
+  <img src="./assets/galaxy-billu-bhai.webp" alt="Pixel-art portrait of Galaxy, also called Billu Bhai, resting on his cat tree" width="460" />
+</p>
+
+<p align="center"><sub>Galaxy — Billu Bhai. Here, like always &lt;3</sub></p>
 
 ---
 
